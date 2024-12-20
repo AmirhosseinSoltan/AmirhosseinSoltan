@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm  Amirhossein Soltani!
+# 👋 Amirhossein Soltani
 
 ![](https://komarev.com/ghpvc/?username=amirhosseinsoltan&color=blueviolet)
 
@@ -12,9 +12,8 @@ I'm a passionate Robotics Software Developer currently pursuing a Master's in Au
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-PyTorch-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
