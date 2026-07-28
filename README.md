@@ -24,6 +24,7 @@ I'm a passionate Robotics Software Developer currently pursuing a Master's in Au
 ## 🌟 Interests
 
 - Robotics and Automation
+- Vehicle Safety
 - Machine Learning and AI
 - Autonomous Vehicles
 - Computer Vision
